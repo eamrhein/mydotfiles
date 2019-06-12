@@ -1,0 +1,1 @@
+conky -c /home/ahab/.config/conky/ArchLabs.conkyrc &

@@ -1,0 +1,2 @@
+#include "/usr/share/rofi/themes/gruvbox-light-hard.theme"
+rofi.theme: /usr/share/rofi/themes/gruvbox-dark-hard.rasi

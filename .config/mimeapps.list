@@ -1,0 +1,4 @@
+[Added Associations]
+text/plain=vim.desktop;
+text/css=vim.desktop;
+application/x-ruby=vim.desktop;
